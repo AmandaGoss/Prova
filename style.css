@@ -1,0 +1,89 @@
+.margens{
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.box{
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#GlobalBox{
+  width: 700px;
+  height: 895px;
+  border: solid 5px #d7d7d7;
+}
+
+#TopoBox{
+  width: 680px;
+  height: 155px;
+  border: solid 5px #e40592;
+}
+
+#ConteudoBox{
+  width: 400px;
+  height: 480px;
+  border: solid 5px #9ddbc9;
+  float: left
+}
+
+#MenuBox{
+  width: 260px;
+  height: 480px;
+  border: solid 5px #8dc9e8;
+  float: right
+}
+
+#RodapeBox{
+  width: 680px;
+  height: 155px;
+  border: solid 5px #ff8c1e;
+}
+
+.row{
+  width: 700px;
+  height: 500px;
+}
+
+#Global{
+  color: #d7d7d7
+}
+
+#Topo{
+  color: #e40592
+}
+
+#Conteudo{
+  color: #9ddbc9
+}
+
+#Menu{
+  color: #8dc9e8
+}
+
+#Rodape{
+  color: #ff8c1e
+}
+
+#centertopo{
+  margin-top: 60px;
+}
+
+#centerconteudo{
+  margin-top: 210px;
+}
+
+#centermenu{
+  margin-top: 210px;
+}
+
+#centerrodape{
+  margin-top: 60px;
+}
+
+.texto{
+  font-size: 30px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
